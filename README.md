@@ -11,8 +11,8 @@ https://twitter.com/HowerBarbosa
 
 ## VS Code
 
-[win](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf?WT.mc_id=code-online-jopapa) ||
-[mac](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+[Mac](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf?WT.mc_id=code-online-jopapa) ||
+[Win](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
 - moving lines
 - duplicating lines
